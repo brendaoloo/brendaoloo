@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Client-side programming project](Https://github.com/brendaoloo/Client-side-project)
 
-- 🌱 I’m currently learning *Django which is popular for full stack development*
+- 🌱 I’m currently learning * Python and its framework Django which is popular for full stack development*
 
 - 👯 I’m looking to collaborate on [Python_bootcamp](Https://githum.com/brendaoloo/python_bootcamp)
 
